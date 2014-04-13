@@ -1,4 +1,4 @@
-;;; delight.el - A dimmer switch for your lighter text.
+;;; delight.el --- A dimmer switch for your lighter text.
 ;;
 ;; Author: Phil S.
 
@@ -103,3 +103,5 @@ When `mode-name' is displayed in other contexts (such as in the
     ad-do-it))
 
 (provide 'delight)
+
+;;; delight.el ends here
